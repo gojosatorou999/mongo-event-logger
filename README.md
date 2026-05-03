@@ -11,7 +11,7 @@ A simple and efficient Python-based event logging system that stores events and 
 ## Project Structure
 - `logger.py`: Contains the `EventLogger` class which handles MongoDB connections and logging operations.
 - `example.py`: A demonstration script showing how to initialize the logger and record events.
-- `requirements.txt`: List of required Python packages (`pymongo`).
+- `requirements.txt`: List of required Python packages (`pymongo`). 
   
 ## Installation
 
