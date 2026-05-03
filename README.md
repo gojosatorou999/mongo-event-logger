@@ -1,5 +1,5 @@
 # MongoDB Event Logger 
-
+ 
 A simple and efficient Python-based event logging system that stores events and timestamps in a MongoDB database.
 
 ## Features 
