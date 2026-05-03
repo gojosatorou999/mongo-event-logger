@@ -4,7 +4,7 @@ A simple and efficient Python-based event logging system that stores events and 
 
 ## Features 
 - **Easy Integration**: Simple class-based interface to log events.
-- **Automated Timestamps**: Every event is automatically timestamped using UTC time.
+- **Automated Timestamps**: Every event is automatically timestamped using UTC time. 
 - **Flexible Metadata**: Store any additional data as a dictionary along with the event.
 - **Querying**: Basic functionality to retrieve recent events. 
 
