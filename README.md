@@ -7,7 +7,7 @@ A simple and efficient Python-based event logging system that stores events and 
 - **Automated Timestamps**: Every event is automatically timestamped using UTC time. 
 - **Flexible Metadata**: Store any additional data as a dictionary along with the event.
 - **Querying**: Basic functionality to retrieve recent events. 
-
+ 
 ## Project Structure
 - `logger.py`: Contains the `EventLogger` class which handles MongoDB connections and logging operations.
 - `example.py`: A demonstration script showing how to initialize the logger and record events.
