@@ -13,7 +13,7 @@ A simple and efficient Python-based event logging system that stores events and 
 - `example.py`: A demonstration script showing how to initialize the logger and record events.
 - `requirements.txt`: List of required Python packages (`pymongo`). 
   
-## Installation     
+## Installation       
 
 1. Clone the repository:
    ```bash
