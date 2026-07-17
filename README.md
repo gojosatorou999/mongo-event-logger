@@ -14,7 +14,7 @@ A simple and efficient Python-based event logging system that stores events and 
 - `requirements.txt`: List of required Python packages (`pymongo`). 
   
 ## Installation        
-
+  
 1. Clone the repository:
    ```bash
    git clone https://github.com/REPLACE_WITH_YOUR_USERNAME/mongo-event-logger.git
