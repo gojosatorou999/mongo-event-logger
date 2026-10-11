@@ -1,6 +1,6 @@
 from logger import EventLogger
 import os
-
+  
 def main():
     # Replace with your actual MongoDB connection string
     # For local test: 'mongodb://localhost:27017/'
